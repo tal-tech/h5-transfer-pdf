@@ -1,0 +1,46 @@
+# project ignore
+LOG_HOME_IS_UNDEFINED
+application.pid
+application.port
+logs/
+# kdiff3 ignore
+*.orig
+.mvn
+# maven ignore
+target/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.metadata/
+catalina.base_IS_UNDEFINED/
+
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# vim ignore
+*.swp
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# package ignore (optional)
+# *.jar
+# *.war
+# *.zip
+# *.tar
+# *.tar.gz
+/LOG_HOME_IS_UNDEFINED/
