@@ -5,7 +5,7 @@ H5TransferPDF是一个将网页HTML渲染为PDF和各种图像格式的API工具
 
 H5TransferPDF正处于逐渐开源的过程中，我们会逐渐抽象PDF生成的经验，开源至H5TransferPDF中。我们崇尚开放、共享的精神，欢迎小伙伴参与交流及开源共建，您的宝贵意见和经验我们都会认真考虑，并逐渐完善H5TransferPDF。
 
-功能简介
+## 功能简介
 - 将任何URL或者HTML内容转换为PDF、IMAGE、HTML文件
 - 完美兼容HTML、CSS、JS
 - 支持Latex、SVG、动态排版、转曲等功能
